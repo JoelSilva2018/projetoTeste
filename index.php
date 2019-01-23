@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo 'commit 3';
+        echo 'commit 3 s';
         ?>
     </body>
 </html>
