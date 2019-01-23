@@ -10,8 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        echo 'commit 3 s';
-        ?>
+      modificação
     </body>
 </html>
